@@ -1,0 +1,14 @@
+.tooltip {
+  background: #eee;
+  box-shadow: 0 0 5px #999999;
+  color: purple;
+  display: none;
+  position: absolute;
+  font-size: 12px;
+  left: 130px;
+  padding: 10px;
+  text-align: center;
+  top: 95px;
+  width: 80px;
+  z-index: 10;
+}
